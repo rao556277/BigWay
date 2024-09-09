@@ -50,7 +50,7 @@ Route::get('/fresh-start', function () {
 //    // Create symbolic link for storage
 //    Artisan::call('storage:link');
 
-    return "Fresh start completed : Git Test";
+    return "Fresh start completed : Git Test success";
 });
 
 
